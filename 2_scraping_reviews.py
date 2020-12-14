@@ -66,12 +66,15 @@ def scraping_reviews_1_hotel(driver,review_text_list,title_list,rate_list,hotel_
     #zoom out 
     driver.execute_script('document.body.style.MozTransform = "scale(0.5)";')
     time.sleep(5)
+    nb_click_next = 0
     while True:
-        scraping_1_page(driver,review_text_list,title_list,rate_list,hotel_list,hotel_id)
-        if (check_exists_by_css_selector('a.ui_button:nth-child(2)')):      
-            go_to_the_next_page(driver)
-        else:
-            break
+        while nb_click_next < 20:
+            scraping_1_page(driver,review_text_list,title_list,rate_list,hotel_list,hotel_id)
+            if (check_exists_by_css_selector('a.ui_button:nth-child(2)')):      
+                go_to_the_next_page(driver)
+                nb_click_next = nb_click_next + 1
+            else:
+                break
         
 
     
@@ -86,7 +89,7 @@ if __name__ == "__main__":
         create_csv_with_reviews("all_reviews.csv",review_text_list,title_list,rate_list,hotel_list)
     except:
         print("Interruption manuelle ou autre problème rencontré..")
-        create_csv_with_reviews("all_reviews.csv",review_text_list,title_list,rate_list,hotel_list)
+        create_csv_with_reviews("all_reviews_test.csv",review_text_list,title_list,rate_list,hotel_list)
 
             
 
