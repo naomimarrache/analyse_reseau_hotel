@@ -83,8 +83,8 @@ def create_csv_df_prep(df,filename):
 
 
 if __name__ == "__main__":
-    df = cleaning_df_from_file("some_reviews.csv")
-    create_csv_df_prep(df,"some_reviews_prep.csv")
+    df = cleaning_df_from_file("all_reviews_S.csv")
+    create_csv_df_prep(df,"all_reviews_S_prep.csv")
 
 
 text = ' '.join(df.review_title)
