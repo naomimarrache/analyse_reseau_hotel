@@ -2976,3 +2976,742 @@ TimedPromise/<@chrome://marionette/content/sync.js:228:19
 TimedPromise@chrome://marionette/content/sync.js:213:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944476120	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naomi\\AppData\\Local\\Temp\\rust_mozprofileDtoESu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607944480737	Marionette	INFO	Listening on port 57246
+1607944481286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607944498895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.tacdn.com/assets/fsml46.yP32ep9g.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607944502892	Marionette	INFO	Stopped listening on port 57246
+1607944523230	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naomi\\AppData\\Local\\Temp\\rust_mozprofileV7WHZ2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607944529300	Marionette	INFO	Listening on port 57317
+1607944529835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607944596728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944617285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944630802	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naomi\\AppData\\Local\\Temp\\rust_mozprofileJtmuQd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607944638010	Marionette	INFO	Listening on port 57397
+1607944638355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607944654731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944662929	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944665082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944726614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naomi\\AppData\\Local\\Temp\\rust_mozprofilel8rGSw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607944733476	Marionette	INFO	Listening on port 57486
+1607944733812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607944753201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944802905	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944804692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944910119	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naomi\\AppData\\Local\\Temp\\rust_mozprofileZlh7s3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607944918384	Marionette	INFO	Listening on port 57601
+1607944918674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607944939624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944941315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944942377	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944943217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944944260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944945278	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944946236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944947718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944949583	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944950810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944952083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944953935	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944956142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944957897	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944959159	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944960363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944961547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944962344	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944963419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944964785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944981231	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944982405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944983461	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944984442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944985400	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944986781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944988085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944989307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944990794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944995131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944995210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944996559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944997955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607944999278	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945000591	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945001972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945003257	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945004442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945005407	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945006511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945021380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945022859	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945024078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945025400	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945026601	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945027788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945029076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945030090	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945031255	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945032439	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945039127	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945046359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945054822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945058586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945060348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945061675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945063057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945064583	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945069039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945071391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945092752	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945094763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945096171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945099581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945102307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945104140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945105475	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945106897	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945108427	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945109663	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945111180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945113342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945115174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945117856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945120442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945121958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945123348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945125085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945126671	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945129021	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607945144941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945148358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945150173	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945151506	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945152751	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945153951	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945155321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945156807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945158381	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945159492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945160998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945162385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945165538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945167248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945169213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945171203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945203446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945206915	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945216749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945221623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945230309	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945259411	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945270191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945278086	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945287192	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945319703	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945344602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945349685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945357668	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945359574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945380383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607945384600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.execute_@chrome://marionette/content/driver.js:1141:33
+
+JavaScript error: https://static.tacdn.com/assets/fsml46.yP32ep9g.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: NetworkError: A network error occurred.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: NetworkError: A network error occurred.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: NetworkError: A network error occurred.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: NetworkError: A network error occurred.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.tripadvisor.fr/Hotel_Review-s1-g298470-d2420827-Reviews-Hotel_Les_Creoles-Saint_Gilles_Les_Bains_Arrondissement_of_Saint_Paul.html, line 3114: TypeError: NetworkError when attempting to fetch resource.
+1607945394085	Marionette	INFO	Stopped listening on port 57601
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

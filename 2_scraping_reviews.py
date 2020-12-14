@@ -67,8 +67,9 @@ def scraping_reviews_1_hotel(driver,review_text_list,title_list,rate_list,hotel_
     driver.execute_script('document.body.style.MozTransform = "scale(0.5)";')
     time.sleep(5)
     nb_click_next = 0
-    while nb_click_next < 20:
-        while True:
+    
+    while nb_click_next <20:
+    #while True:
             scraping_1_page(driver,review_text_list,title_list,rate_list,hotel_list,hotel_id)
             if (check_exists_by_css_selector('a.ui_button:nth-child(2)')):      
                 go_to_the_next_page(driver)
@@ -84,6 +85,7 @@ if __name__ == "__main__":
         df = pd.read_csv('all_hotel_url.csv')
         review_text_list, title_list, rate_list, hotel_list = [], [], [], []
         for hotel_id, url in enumerate(df.url):
+            print(hotel_id)
             scraping_reviews_1_hotel(driver,review_text_list,title_list,rate_list,hotel_list,hotel_id,url)
         driver.close()
         create_csv_with_reviews("all_reviews.csv",review_text_list,title_list,rate_list,hotel_list)

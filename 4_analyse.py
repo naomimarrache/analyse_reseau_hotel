@@ -57,17 +57,18 @@ def hist_mots_importants(review,nb_features,ngram_range1,ngram_range2):
         occurence.append(X_df[mot].sum())
         mots.append(mot)
     df_mot = pd.DataFrame({'mot':mots, 'occurence':occurence})
-    df_mot_sorted = df_mot.sort_values('occurence')
+    df_mot_sorted = df_mot.sort_values('occurence',ascending=False)
     plt.figure(figsize=(30,7))
     plt.scatter(df_mot_sorted.mot,df_mot_sorted.occurence)
     #ax = df_mot_sorted.plot.bar(x='mot', y='occurence', rot=0,width=0.8)
+    return df_mot_sorted
 
 
 if __name__ == "__main__":
     df = pd.read_csv("all_reviews.csv")
     df_pos = split_df_pos_neg(df)[0]
     df_neg = split_df_pos_neg(df)[1]
-    hist_mots_importants(df_neg.review,20,1,4)
+    vect = hist_mots_importants(df_neg.review,20,3,4)
     
 """
 faire beaucoup de semantique pour renvoyer les features les
