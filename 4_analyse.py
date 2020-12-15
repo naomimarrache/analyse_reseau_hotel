@@ -73,8 +73,8 @@ def words_occur_to_wordcloud_to_file(hotel_id,best_feature_by_hotel_dict,display
             plt.show()
         
     if save == True:
-        wordcloud_pos.to_file("wordclouds/pos"+str(hotel_id)+".png")
-        wordcloud_neg.to_file("wordclouds/neg"+str(hotel_id)+".png")
+        wordcloud_pos.to_file("app/static/wordclouds/pos"+str(hotel_id)+".png")
+        wordcloud_neg.to_file("app/static/wordclouds/neg"+str(hotel_id)+".png")
 
 
 
