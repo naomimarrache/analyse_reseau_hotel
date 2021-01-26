@@ -6,10 +6,6 @@ Created on Wed Dec  2 21:35:32 2020
 """
 
 
-"""
-
-faire du pos tagging pour renvoyer seuelemtn les
-features snesé, enleve eux qui finisse pzr un adverbe..."""
 
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
@@ -113,24 +109,3 @@ words_to_keep = ["petit déjeuner","salle bain","buffet","famille"]
      
 
   
-    
-"""
-faire beaucoup de semantique pour renvoyer les features les
-plus pertinents
-ex : hotel très à supprimer
-remplacer "pas très" par "pas" --> hotel pas beau = hotel pas NEG beau
-"""
-
-
-"""
-mask = np.array(Image.open('images/bas.PNG'))
-word_cloud_dict= { (best_features_neg.iloc[i].mot,best_features_neg.iloc[i].occurence) for i in range(best_features_neg.shape[0]) }
-test = { best_features_pos.iloc[i].mot:best_features_pos.iloc[i].occurence for i in range(best_features_neg.shape[0]) }
-
-wordcloud = WordCloud( background_color="white", mask=mask,width=mask.shape[1],height=mask.shape[0],contour_width=10, contour_color='green').generate_from_frequencies(frequencies=test)
-plt.imshow(wordcloud, interpolation='bilinear')
-plt.axis("off")
-plt.show()
-"""
-
-#[ (best_features_neg.iloc[i].mot,best_features_neg.iloc[i].occurence) for i in range(best_features_neg.shape[0]) ]
